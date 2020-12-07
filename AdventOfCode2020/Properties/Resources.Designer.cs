@@ -266,5 +266,19 @@ namespace AdventOfCode2020.Properties {
                 return ResourceManager.GetString("Day06", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to striped tan bags contain 2 light silver bags, 1 drab black bag, 2 clear tan bags, 2 mirrored tan bags.
+        ///dark black bags contain 1 vibrant indigo bag, 5 muted gold bags, 4 bright tomato bags, 3 dull tan bags.
+        ///dim silver bags contain 1 vibrant black bag, 3 muted cyan bags, 4 plaid turquoise bags, 4 faded orange bags.
+        ///faded maroon bags contain 3 pale aqua bags.
+        ///dim crimson bags contain 1 faded orange bag, 2 plaid silver bags.
+        ///plaid indigo bags contain 1 dull purple bag, 2 plaid cyan bags, 4 mirrored gold b [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day07Input {
+            get {
+                return ResourceManager.GetString("Day07Input", resourceCulture);
+            }
+        }
     }
 }
