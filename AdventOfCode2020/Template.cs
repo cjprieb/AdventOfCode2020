@@ -15,17 +15,9 @@ namespace AdventOfCode2020
         #endregion Code...
 
         #region Tests...
-        [TestMethod]
-        public void Answer1()
-        {
+        [TestMethod] public void Answer1() { }
 
-        }
-
-        [TestMethod]
-        public void Answer2()
-        {
-
-        }
+        [TestMethod] public void Answer2() { }
         #endregion Tests...
     }
 }
