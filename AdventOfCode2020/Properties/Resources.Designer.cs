@@ -605,5 +605,57 @@ namespace AdventOfCode2020.Properties {
                 return ResourceManager.GetString("Day12Input", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to mask = 010X1100101X00X01001X11010X111100X01
+        ///mem[23014] = 9778
+        ///mem[42882] = 140716
+        ///mem[65461] = 458355100
+        ///mem[60151] = 31172
+        ///mem[47143] = 7055
+        ///mask = X101XX001XX1001010X101X1101011100101
+        ///mem[26134] = 4394
+        ///mem[18808] = 352500
+        ///mem[18556] = 87307674
+        ///mask = X11X110X1011X11X0001011000000X110000
+        ///mem[49018] = 14063312
+        ///mem[42211] = 45834020
+        ///mem[36848] = 5772919
+        ///mask = X1X1110110100001100X000100111X001X01
+        ///mem[9118] = 531662307
+        ///mem[31896] = 259680444
+        ///mem[35532] = 125291736
+        ///mem[1284] = 696970
+        ///mask =  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day14Input {
+            get {
+                return ResourceManager.GetString("Day14Input", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to departure location: 29-766 or 786-950
+        ///departure station: 40-480 or 491-949
+        ///departure platform: 46-373 or 397-957
+        ///departure track: 33-657 or 673-970
+        ///departure date: 31-433 or 445-961
+        ///departure time: 33-231 or 250-966
+        ///arrival location: 48-533 or 556-974
+        ///arrival station: 42-597 or 620-957
+        ///arrival platform: 32-119 or 140-967
+        ///arrival track: 28-750 or 762-973
+        ///class: 26-88 or 101-950
+        ///duration: 30-271 or 293-974
+        ///price: 33-712 or 718-966
+        ///route: 49-153 or 159-953
+        ///row: 36-842 or 851-972
+        ///seat: 43-181 or  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day16Input {
+            get {
+                return ResourceManager.GetString("Day16Input", resourceCulture);
+            }
+        }
     }
 }
