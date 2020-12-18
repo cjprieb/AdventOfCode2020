@@ -65,7 +65,7 @@ namespace AdventOfCode2020.Day14
         {
             var program = new BitProgram();
             program.Run(Input.GetLines(Properties.Resources.Day14Input), true);
-            Assert.AreEqual(4091311717392L, program.SumVersion2());
+            Assert.AreEqual(3926790061594L, program.SumVersion2());
         }
         #endregion Tests...
     }
