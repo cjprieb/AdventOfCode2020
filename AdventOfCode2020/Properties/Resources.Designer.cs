@@ -674,5 +674,42 @@ namespace AdventOfCode2020.Properties {
                 return ResourceManager.GetString("Day18Input", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 97: 138 57 | 12 83
+        ///131: 20 83 | 74 57
+        ///7: 57 110 | 83 51
+        ///48: 17 83 | 56 57
+        ///2: 83 57
+        ///40: 57 101 | 83 93
+        ///16: 12 83 | 47 57
+        ///42: 15 83 | 66 57
+        ///62: 83 134 | 57 18
+        ///55: 124 57 | 45 83
+        ///1: 57 116 | 83 93
+        ///63: 83 1 | 57 32
+        ///83: &quot;a&quot;
+        ///72: 57 83 | 83 83
+        ///18: 83 57 | 57 83
+        ///67: 90 83 | 99 57
+        ///91: 83 108 | 57 72
+        ///8: 42
+        ///116: 83 18 | 57 72
+        ///41: 57 83
+        ///130: 57 84 | 83 50
+        ///26: 57 12 | 83 124
+        ///103: 134 57 | 45 83
+        ///39: 83 18 | 57 138
+        ///46: 83 47 | 57 138
+        ///129: 57 138 | 83 108
+        ///58: 108 57 | 72 83
+        ///138: 57 57 | 83 57
+        ///49 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day19Input {
+            get {
+                return ResourceManager.GetString("Day19Input", resourceCulture);
+            }
+        }
     }
 }
