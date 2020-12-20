@@ -160,4 +160,16 @@
   <data name="Day19Input" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Day19Input.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
+  <data name="Day20GridActual" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Day20GridActual.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Day20Input" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Day20Input.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Day20TestGridActual" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Day20TestGridActual.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Day20TestGridExpected" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Day20TestGridExpected.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
 </root>
