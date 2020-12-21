@@ -835,5 +835,14 @@ namespace AdventOfCode2020.Properties {
                 return ResourceManager.GetString("Day20TestGridExpected", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to rlc lbmf frqz rtxgv ctzz dfkbnvp trnd nbtdp grj sthnsg hbqgv bltlff knqh pzznzt nbgvrls pdjkbf sxbjr mhrp pmqm vthsdx zqtgm pmh dnfgghrh grnrr zvbm qghp zqvthqt vgq qjdqhx ndcssdm cqbp pmdb nkz qvhq tlnz jptplj svr zqtlns lrsbsl mlsmqjln bjpkhx zgqf qfdh shmnj thn rfbtj snhph kjzl xgmrx frvx nsnqf dtlgvqjd bhrj hzpk jjpgkn rvqdx mkczhrp dpmp cdqr qrbnjtj ftllkgg mlpr rfghfc xrdq zccsfk hcdz rrsct qtqmdq rnmxqtx vcqghl nxj gsskhx rljfl ksqfmnl mrgz dbhfd qgqqvxlj sqr hxclz mkpjrjf xmfg (contains soy, sesame, [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Day21Input {
+            get {
+                return ResourceManager.GetString("Day21Input", resourceCulture);
+            }
+        }
     }
 }
