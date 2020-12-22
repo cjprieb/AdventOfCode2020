@@ -2,10 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/AdventOfCode2020/v16/TestStore/0
-/.vs/AdventOfCode2020/v16/.suo
+/.vs
 /AdventOfCode2020/obj
-/AdventOfCode2020/bin/Debug/netcoreapp3.1
-/.vs/AdventOfCode2020/DesignTimeBuild/.dtbcache.v2
-/TestResults/ef4d4be6-a416-439d-96ad-6b693da656e1
+/AdventOfCode2020/bin
+/TestResults
 /CurrentDayTests.playlist
